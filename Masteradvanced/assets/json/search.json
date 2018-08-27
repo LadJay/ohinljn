@@ -1,0 +1,29 @@
+{
+	"rotten": {
+		"symbol": "You Searched ",
+    "luck": "Very Unlucky for you! Try again Later!",
+		"max": 0,
+		"min": 0
+	},
+	"common": {
+		"symbol": "You searched through peoples dumpsters and you got ",
+        "luck": "You are a smelly piece of garbage",
+
+		"max": 29,
+		"min": 1
+	},
+	"uncommon": {
+		"symbol": "You searched your restaurant's tip jar and got ",
+        "luck": "Very Good Coins But Your Restaurant Is Angry",
+
+		"max": 50,
+		"min": 10
+	},
+	"rare": {
+		"symbol": "Searched Your Messages and you got ",
+        "luck": "A Excellent Amount Of coins!",
+
+		"max": 70,
+		"min": 20
+	}
+}

@@ -1,0 +1,34 @@
+{
+    "Slot 2": {
+    "name": "King",
+    "type": "Badges",
+    "price": "5000",
+    "desc": "Badge: Slot 2: King of the Pengus! 👑"
+},
+
+    "owo": {
+    "name": "Queen",
+    "type": "Badges",
+    "price": "5000",
+    "desc": "Badge: Slot 2: Queen of the Pengus! ♕"
+},
+     "owo2": {
+    "name": "Soldier",
+    "type": "Badges",
+    "price": "1500",
+    "desc": "Badge: Slot 2: Soldier of the Pengus! 兵"
+},
+     "owo3": {
+    "name": "Lucky",
+    "type": "Badges",
+    "price": "1000",
+    "desc": "Badge: Slot 3: Your are a lucky mother f*cker"
+}
+
+
+
+
+  
+  
+  
+}

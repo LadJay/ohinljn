@@ -1,0 +1,22 @@
+{
+	"caught": {
+		"symbol": "You have been caught! You have been charged for ",
+		"max": -70000,
+		"min": -10000
+	},
+	"escaped": {
+		"symbol": "You have escaped from the cops ! After the cut with your heist mates you got",
+		"max": 75000,
+		"min": 25000
+	},
+	"jackpot": {
+		"symbol": "You hit the jackpot! You have got ",
+		"max": 250000,
+		"min": 100000
+	},
+	"ultra": {
+		"symbol": "WOW ! Ultimate JackPot!!! You got",
+		"max": 500000,
+		"min": 300000
+	}
+}

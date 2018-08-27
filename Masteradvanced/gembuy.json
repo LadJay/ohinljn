@@ -1,0 +1,9 @@
+{
+    "Levels": {
+    "name": "upgrade",
+    "type": "Rank",
+    "price": "350",
+    "desc": "Lazy to fight? buy this for instant upgrade!"
+
+    }
+}

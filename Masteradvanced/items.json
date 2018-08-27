@@ -1,0 +1,11 @@
+{
+    "Work Upgrade": {
+    "name": "upgrade",
+    "type": "Work",
+    "price": "100",
+    "desc": "Upgrade your restaurant to get more money! `+workstats` to review stats"
+}
+
+  
+  
+}

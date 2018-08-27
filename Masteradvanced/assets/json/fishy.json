@@ -1,0 +1,22 @@
+{
+	"rotten": {
+		"symbol": "Rotten Fish ",
+		"max": 10,
+		"min": 0
+	},
+	"common": {
+		"symbol": "🐟 Common Fish",
+		"max": 29,
+		"min": 11
+	},
+	"uncommon": {
+		"symbol": "🐠 Uncommon Fish",
+		"max": 50,
+		"min": 31
+	},
+	"rare": {
+		"symbol": "🐡 Rare Fish",
+		"max": 70,
+		"min": 50
+	}
+}
